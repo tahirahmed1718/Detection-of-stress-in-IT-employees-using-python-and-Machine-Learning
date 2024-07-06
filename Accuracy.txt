@@ -1,0 +1,6 @@
+Detection of Stress in IT Employees using Machine Learning Technique.
+
+Algorithm / Model: CNN Model Architecture.
+
+Training Accuracy of 87.34%. and
+Validation Accuracy of 98.45%.
